@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God almighty's call to the healthy and to the sick, To which are added, the authors and a renowned bishops verses upon the Holy Bible.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06900</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[178]</idno>
+            <idno type="EEBO-CITATION">99886944</idno>
+            <idno type="PROQUEST">ocm99886944</idno>
+            <idno type="VID">181501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181501)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[179])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God almighty's call to the healthy and to the sick, To which are added, the authors and a renowned bishops verses upon the Holy Bible.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin, at the Two Swans without Bishopgate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "God almighty's call to the healthy.".</note>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181501:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>GOD Almighty's CALL <hi>To the Healthy and to the Sick, <hi>To which are added, The Authors and a Renowned Biſhops Verſes upon the Holy Bible.</hi>
+               </hi>
+            </head>
+            <div type="part">
+               <head>GOD Almighty's CALL to the Healthy.</head>
+               <lg>
+                  <l>
+                     <hi>O ye, whoſe Benefits from me are not Narrow,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe Breſts are full of Milk, and Bones of Marrow.</hi>
+                  </l>
+                  <l>Queſt. 1. <hi>DOth Sloth become you, Sirs?</hi> Or don't you fear</l>
+                  <l>The wicked ſlothful Servants doom to bear?</l>
+                  <l>Q.2. <hi>Doth luxury of Sleep become?</hi> O then</l>
+                  <l>Of Life-time's ſhortneſs ne'er complain agen.</l>
+                  <l>Q.3. <hi>Doth Body-pampering you become?</hi> Alas!</l>
+                  <l>Deny then if you can, your Fleſh is Graſs!</l>
+                  <l>Q.4. <hi>Doth Worldly Pomp become you?</hi> If it do,</l>
+                  <l>Then Grace and Glory cann't become you too!</l>
+                  <l>Q.5. <hi>Doth Gluttony become you?</hi> Sirs, if ſo,</l>
+                  <l>Say plainly you no GOD but Belly know!</l>
+                  <l>Q.6. <hi>Doth Idle Chat become you?</hi> VVon't your Lord</l>
+                  <l>Require account, for every Idle Word?</l>
+                  <l>Q.7. <hi>Doth Company lewd become?</hi> Of ſuch is Hell;</l>
+                  <l>And would you chuſe indeed, with ſuch to dwell?</l>
+                  <l>Q.8. <hi>Doth Gaming you become?</hi> O don't miſtake,</l>
+                  <l>Though Games make Sports, yet Sports do Torments make.</l>
+                  <l>Q.9. <hi>Doth Worldly Care become you?</hi> Sirs 'tis true,</l>
+                  <l>That GOD and Mammon cann't be ſerved too.</l>
+                  <l>Q.10 <hi>Doth uſe of Thoughts unbridled you become?</hi>
+                  </l>
+                  <l>Is't nothing to be Diveliſh, ſo you are dumb?</l>
+                  <l>Q.11. <hi>Doth Reading paltry Books become?</hi> Your Eyes</l>
+                  <l>Were made to Read the Books that make you Wiſe.</l>
+                  <l>Q.12. <hi>O what becomes you!</hi> But to ſeek your Peace,</l>
+                  <l>And Holineſs, and Vertues true Encreaſe.</l>
+                  <l>
+                     <hi>Anſwer, O ye, whoſe Benefits are not Narrow;</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe Breaſts are full of Milk, and Bones of Marrow.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>GOD Almighty's Call to the Sick.</head>
+               <lg>
+                  <l>
+                     <hi>O ye, whoſe ſtrings of Eyes and very Heart,</hi>
+                  </l>
+                  <l>
+                     <hi>Are, to your feeling, ready break apart.</hi>
+                  </l>
+                  <l>Queſt. 1. WHat ſay ye now? <hi>Is there a God or no?</hi>
+                  </l>
+                  <l>Atheiſts, in dying hours, Believers grow.</l>
+                  <l>Q.2. What ſay ye now? <hi>Are God and You now Friends?</hi>
+                  </l>
+                  <l>For now the Reconciling Seaſon ends.</l>
+                  <l>Q.3. What ſay ye now? <hi>Is time a Price or not?</hi>
+                  </l>
+                  <l>The trueſt Knowledge, is on Sick-beds got.</l>
+                  <l>Q.4. What ſay now? <hi>Do not your Hopes now Shrink?</hi>
+                  </l>
+                  <l>For Sick Men ſee, though Healthy uſe to wink.</l>
+                  <l>Q.5. VVhat ſay ye now? <hi>Is Sin a Load now Light?</hi>
+                  </l>
+                  <l>Sin's leaſt in Thought, when Death is leaſt in Sight.</l>
+                  <l>Q.6. VVhat ſay you now? <hi>Is World Pearl in your Eye?</hi>
+                  </l>
+                  <l>All dying Lips call world a deadly Lye.</l>
+                  <l>Q.7. VVhat ſay ye now? <hi>Now's Godlineſs great Gain?</hi>
+                  </l>
+                  <l>No dying Saint, e're thought his Labour vain.</l>
+                  <l>Q.8. VVhat ſay ye now? <hi>Now will ye ſhape to dye?</hi>
+                  </l>
+                  <l>O where's your Plea! for Lo your Judge draws nigh!</l>
+                  <l>Q.9. VVhat ſay ye now? <hi>Now will ye Elders call?</hi>
+                  </l>
+                  <l>VVhen too much can't be done; who'd not do all?</l>
+                  <l>Q.10. VVhat ſay ye now? <hi>Now list ye to Convert?</hi>
+                  </l>
+                  <l>Repentance late, need be with all the Heart.</l>
+                  <l>Q.11. VVhat ſay ye now? <hi>Vows holy will ye make?</hi>
+                  </l>
+                  <l>Sin moſt renounce; but very few forſake.</l>
+                  <l>Q.12. This therefore ſay: <hi>Shall not theſe Vows be Vain?</hi>
+                  </l>
+                  <l>If I ſhall Heal, and Raiſe you up again.</l>
+                  <l>
+                     <hi>Anſwer O ye, whoſe ſtrings of Eye and Heart,</hi>
+                  </l>
+                  <l>
+                     <hi>Be, to your feeling, ready break apart.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Upon the HOLY BIBLE.</head>
+               <lg>
+                  <l>MEthinks 'twas witty that <hi>Minerva's</hi> Fowls,</l>
+                  <l>The <hi>Greeks</hi> would make to be the very <hi>Owls;</hi>
+                  </l>
+                  <l>Sure 'twas to ſhew, that <hi>Natural Learning's</hi> blind,</l>
+                  <l>Till Light from Revelation, it did find</l>
+               </lg>
+               <lg>
+                  <l>Let other Merchants, into <hi>Toads-Heads</hi> look,</l>
+                  <l>For Pearls of <hi>Wiſdom:</hi> But give me <hi>God's Book.</hi>
+                  </l>
+                  <l>Mens Books, the beſt, ſhall never fit my Head;</l>
+                  <l>VVith God's, I'll <hi>Riſe;</hi> with God's, I'll <hi>go to Bed.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ah empty <hi>Bodley!</hi> Emptyer <hi>Vatican!</hi>
+                  </l>
+                  <l>Bible makes <hi>Saint;</hi> your Books ſcarce make a Man;</l>
+                  <l>God's Book's more Bright then <hi>Sun,</hi> more loud then <hi>Thunder;</hi>
+                  </l>
+                  <l>'Tis Light and Law from <hi>Heaven,</hi> to all that's under.</l>
+               </lg>
+               <lg>
+                  <l>Gaze on <hi>Aſtronomers,</hi> on your ſplended <hi>Trains;</hi>
+                  </l>
+                  <l>In <hi>Starry-Houſes,</hi> Stable all your Brains!</l>
+                  <l>My Bible's <hi>Sun</hi> and <hi>Moon</hi> and <hi>Stars</hi> to me;</l>
+                  <l>The <hi>Star</hi> that Leads, to all I care to ſee!</l>
+               </lg>
+               <lg>
+                  <l>Away, ye <hi>Sons of Phyſick!</hi> True, your <hi>Steel</hi>
+                  </l>
+                  <l>Opens my diſaffected <hi>Spleen,</hi> I feel!</l>
+                  <l>
+                     <hi>Caſtoreum</hi> relieves my <hi>Brain</hi> when't akes,</l>
+                  <l>And Sulphur from my Lungs their Loading takes:</l>
+                  <l>But <hi>Bible</hi>'s <hi>Food,</hi> and <hi>Feaſt,</hi> and <hi>Phyſick</hi> too;</l>
+                  <l>
+                     <hi>Feeds, Chears,</hi> and <hi>Cures,</hi> as nought of yours can do!</l>
+                  <l>Bible makes <hi>Lightſom</hi> ſtill, and never <hi>Light;</hi>
+                  </l>
+                  <l>Still <hi>Merry,</hi> never <hi>Vain; Down,</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>pright!</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſes found written in the</hi> BIBLE <hi>of the Right Reverend Biſhop</hi> Prideaux.</head>
+               <lg>
+                  <l>THis is the <hi>Volumn,</hi> in whoſe precious <hi>Leaves,</hi>
+                  </l>
+                  <l>
+                     <hi>Mysterys</hi> of Heavenly <hi>Treaſure, God</hi> bequeathes;</l>
+                  <l>
+                     <hi>Objects</hi> and <hi>Subjects,</hi> of each Chriſtian Eye:</l>
+                  <l>By theſe who <hi>Lives,</hi> by <hi>Death</hi> ſhall never <hi>Dye!</hi>
+                  </l>
+                  <l>Here Shines the <hi>Sun of Grace,</hi> diffuſing wide</l>
+                  <l>His <hi>Quickning Beams</hi> on all, from ſide to ſide!</l>
+               </lg>
+               <lg>
+                  <l>Here <hi>God and Man</hi> do both Embrace each other;</l>
+                  <l>Met in one <hi>Perſon, Heaven</hi> and <hi>Earth</hi> do Kiſs:</l>
+                  <l>Here a <hi>Pure-Virgin</hi> doth become a <hi>Mother;</hi>
+                  </l>
+                  <l>And bear a <hi>Son,</hi> that the World's Father is.</l>
+               </lg>
+               <lg>
+                  <l>Here comes <hi>True Bliſs</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, flying from on high;</l>
+                  <l>To hale us out of <hi>Hells</hi> dar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Miſery.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Larkin,</hi> at the <hi>Two Swans</hi> without <hi>Biſhopſgate,</hi> 1687. With Allowance.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
